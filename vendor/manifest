@@ -1,0 +1,32 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/hybridgroup/gocv",
+			"repository": "https://github.com/hybridgroup/gocv",
+			"vcs": "git",
+			"revision": "ab6d932219faf43e531eea89ef3496cdb67aa734",
+			"branch": "master",
+			"notests": true,
+			"allfiles": true
+		},
+		{
+			"importpath": "github.com/hybridgroup/mjpeg",
+			"repository": "https://github.com/hybridgroup/mjpeg",
+			"vcs": "git",
+			"revision": "4680f319790ebffe28bbee775ecd1725693731ca",
+			"branch": "master",
+			"notests": true,
+			"allfiles": true
+		},
+		{
+			"importpath": "gocv.io/x/gocv",
+			"repository": "https://github.com/hybridgroup/gocv",
+			"vcs": "git",
+			"revision": "ab6d932219faf43e531eea89ef3496cdb67aa734",
+			"branch": "master",
+			"notests": true,
+			"allfiles": true
+		}
+	]
+}
